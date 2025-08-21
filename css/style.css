@@ -35,7 +35,7 @@ body, html{
 .headquote{
 	font-size: 15px;
 	color: #fff;
-	width: 90%;
+	width: 100%;
 }
 
 .header-menu{
@@ -242,4 +242,5 @@ body, html{
 	padding: 0px 0px;
 	border-bottom: 1px solid #3131315e;
 }
+
 
